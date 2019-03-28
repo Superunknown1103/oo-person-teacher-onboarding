@@ -17,5 +17,5 @@ class Person
   def happiness
     @happiness
   end
-  
+
 end
