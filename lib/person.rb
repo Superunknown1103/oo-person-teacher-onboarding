@@ -3,6 +3,7 @@ class Person
   def initialize(name, bank_account = 25)
     @name = name
     @bank_account = bank_account
+    @happiness = 8
   end
 
   attr_reader :name
